@@ -47,4 +47,3 @@ OpenCore Config.plistを[ここ](https:/github.com/IC005k/qtopencoreconfigdataba
 
 OCの難点はConfig.plistなので、初心者が急速に状態に入るのを助けるために、後の改善については自分自身に頼るように、みんなでConfig.plistファイルを共有してください。 しかし、あなたの共有は多くの人、特にOCブートを使用してインストール状態に入ることができない人に役立ちます。
 一緒にOCをより簡単にしましょう。ありがとう！
-
