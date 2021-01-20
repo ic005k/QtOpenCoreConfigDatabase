@@ -1,9 +1,10 @@
 # QtOpenCoreConfigDatabase
 
-您可以在此分享OpenCore Config.plist [这里](https://github.com/ic005k/QtOpenCoreConfigDatabase/issues).
+您可以在[这里](https://github.com/ic005k/QtOpenCoreConfigDatabase/issues)分享OpenCore Config.plist。
 
 OC的难点在于Config.plist，所以请大家踊跃分享自己的Config.plist文件，旨在帮助新手快速进入状态，至于后面的完善还是要靠自己。但是您的分享会帮助到很多人，特别是那些使用OC引导而无法进入安装状态的人。
 让我们一起让OC变得更容易，感谢！
+
 
 ---
 
@@ -35,9 +36,15 @@ Facilitons le CO ensemble, merci !
 
 ---
 
-OpenCore Config.plistは[こちら](https://github.com/ic005k/QtOpenCoreConfigDatabase/issues)で共有できます。
+Opencoreconfig.plis 는 [여기] (https://github.com/ic005k/qtopencoreconfigdatabase/issues) 에서 공유할 수 있습니다
 
-OCの難しいところはConfig.plistなので、初心者の方が早くOCを使いこなせるように、自分のConfig.plistファイルを自由に共有してください。 しかし、あなたの共有は多くの人、特にOCブートを使用していてインストールに入れない人の助けになるでしょう。
-一緒にOCを楽にしていきましょう、ありがとうございます。
+OC 의 어려움은 Config.plist 에 있습니다. 따라서 초보자가 빨리 상태에 들어갈 수 있도록 돕기 위해 자신의 Config.plist 파일을 적극적으로 공유해 주십시오. 뒤의 완벽함은 여전히 자신에게 달려 있습니다. 하지만 공유는 많은 사람들, 특히 OC 부팅을 사용하여 설치 상태에 들어갈 수 없는 사람들에게 도움이 될 것입니다.
+함께 OC 를 더 쉽게 만들자, 고마워!
 
+---
+
+OpenCore Config.plistを[ここ](https:/github.com/IC005k/qtopencoreconfigdatabase/issues)で共有できます。
+
+OCの難点はConfig.plistなので、初心者が急速に状態に入るのを助けるために、後の改善については自分自身に頼るように、みんなでConfig.plistファイルを共有してください。 しかし、あなたの共有は多くの人、特にOCブートを使用してインストール状態に入ることができない人に役立ちます。
+一緒にOCをより簡単にしましょう。ありがとう！
 
