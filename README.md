@@ -36,7 +36,7 @@ Facilitons le CO ensemble, merci !
 
 ---
 
-Opencoreconfig.plis 는 [여기](https://github.com/ic005k/QtOpenCoreConfigDatabase/issues) 에서 공유할 수 있습니다
+OpenCore Config.plis 는 [여기](https://github.com/ic005k/QtOpenCoreConfigDatabase/issues) 에서 공유할 수 있습니다
 
 OC 의 어려움은 Config.plist 에 있습니다. 따라서 초보자가 빨리 상태에 들어갈 수 있도록 돕기 위해 자신의 Config.plist 파일을 적극적으로 공유해 주십시오. 뒤의 완벽함은 여전히 자신에게 달려 있습니다. 하지만 공유는 많은 사람들, 특히 OC 부팅을 사용하여 설치 상태에 들어갈 수 없는 사람들에게 도움이 될 것입니다.
 함께 OC 를 더 쉽게 만들자, 고마워!
