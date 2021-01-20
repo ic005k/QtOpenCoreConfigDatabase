@@ -43,7 +43,7 @@ OC 의 어려움은 Config.plist 에 있습니다. 따라서 초보자가 빨리
 
 ---
 
-OpenCore Config.plistを[ここ](https:/github.com/IC005k/qtopencoreconfigdatabase/issues) で共有できます。
+OpenCore Config.plistを[ここ](https:/github.com/ic005k/qtopencoreconfigdatabase/issues)で共有できます。
 
 OCの難点はConfig.plistなので、初心者が急速に状態に入るのを助けるために、後の改善については自分自身に頼るように、みんなでConfig.plistファイルを共有してください。 しかし、あなたの共有は多くの人、特にOCブートを使用してインストール状態に入ることができない人に役立ちます。
 一緒にOCをより簡単にしましょう。ありがとう！
